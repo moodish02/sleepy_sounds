@@ -1,1 +1,12 @@
-
+[
+  {
+    "name": "Rain in Forest",
+    "file": "https://moodish02.github.io/sleepy_sounds/sounds/rain.mp3",
+    "isPremium": false
+  },
+  {
+    "name": "Fireplace",
+    "file": "https://moodish02.github.io/sleepy_sounds/sounds/fire.mp3",
+    "isPremium": true
+  }
+]
